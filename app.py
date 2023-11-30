@@ -5,3 +5,7 @@ def get_stuff_done():
     some_string : str = "stuff"
 
     return some_string
+
+
+def add_gbotemi():
+    pass
